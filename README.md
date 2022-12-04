@@ -49,7 +49,7 @@ I currently work in tech support for a software platform company. I am a graudta
 <!-- Section: Favorite Learning Resources (None are affiliate links.)-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B12CB7,100:8005C6&height=120&section=header&text=Favorite%20Learning%20Resources&fontSize=36&fontColor=FFFFFF&fontAlignY=30)
 <br>
-These are not affiliate links. Just a list of resources I genuinely think will help. I
+These are not affiliate links. Just a list of resources I genuinely think will help. 
 <br>
 - [Udemy](https://www.udemy.com/)
 - [Codecademy](https://codecademy.com)
