@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 
 ### Thanks for visiting my page while I'm updating. Feel free to reach out with any questions.
 <sub>:construction: Page under Construction - Work In Progress... :construction:</sub>
+<br>
+![image courtesy of https://giphy.com/Jack0_o/](https://media.giphy.com/media/p7bz7zIIW2dJemYweL/giphy.gif)
+(Image provided by https://giphy.com/Jack0_o/)
+<br>
+<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B12CB7,100:8005C6&height=120&section=header&text=A%20Bit%20About%20Me&fontSize=36&fontColor=FFFFFF&fontAlignY=30)
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B12CB7,100:8005C6&height=120&section=header&text=Programming%20Languages%20I%20Know&fontSize=36&fontColor=FFFFFF&fontAlignY=30)
+<br>
