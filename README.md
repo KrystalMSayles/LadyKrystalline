@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 
 <!-- Section: A Bit About Me (short bio) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B12CB7,100:8005C6&height=120&section=header&text=A%20Bit%20About%20Me&fontSize=36&fontColor=FFFFFF&fontAlignY=30)
-<br>
-**Why Lady Krystalline?**<br>
-It's my gamer tag I originally made up for Steam. I liked the name, so I kept it!<br><br>
-I currently work in tech support for a software platform company. I am a graudtate of Full Sail University's Mobile Development program. I have experience with primarily SwiftUI and Android Java. I also have experience with HTML and CSS for web development. I've spent the past few years with a NaaS company where my role had minimal focus on software development. Now that I'm back into my industry of study/choice, I am taking action to update this profile and re-create previous work based on my own designs. 
+<br><br>
+Accomplished Product Owner specializing in technical training and support, renowned for assuming full ownership and accountability for delivering strategic value to customers through innovative product development. Proven track record of leading and collaborating with cross-functional teams to architect effective solutions tailored to meet and exceed client needs. A dedicated advocate of open communication and facilitation, employing a collaborative leadership approach to drive teams toward shared goals and successful project outcomes. 
 <br><br>
 
 <!-- Section: Programming Languages I Know -->
@@ -36,20 +34,20 @@ I currently work in tech support for a software platform company. I am a graudta
 - SwiftUI
 - Android Java
 - HTML/CSS
+- SQL
 <br><br>
 
-<!-- Section: Projects (current/upcoming) -->
+<!-- Section: My Projects (current/upcoming) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B12CB7,100:8005C6&height=120&section=header&text=My%20Projects%20&fontSize=36&fontColor=FFFFFF&fontAlignY=30)
 <br>
 <sub>_Per their policy, this list does not include code from or based on assignments and projects completed while attending Full Sail University._</sub>
-- Google Book Search (Android Java) pulls and searches results from Google Books API 
 - More projects in progress, using SwiftUI, HTML
 <br><br>
 
 <!-- Section: Favorite Learning Resources (None are affiliate links.)-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B12CB7,100:8005C6&height=120&section=header&text=Favorite%20Learning%20Resources&fontSize=36&fontColor=FFFFFF&fontAlignY=30)
 <br>
-These are not affiliate links. Just a list of resources I genuinely think will help. 
+These are not affiliate links. This is just a list of resources I genuinely think will help. 
 <br>
 - [Udemy](https://www.udemy.com/)
 - [Codecademy](https://codecademy.com)
